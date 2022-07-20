@@ -44,3 +44,13 @@ Input variables:
 20 - nr.employed: number of employees - quarterly indicator (numeric)
 Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
+
+#Conclusion:
+From the EDA and model selection part we can clearly identify duration playing an important attribute in defining the outcome of our dataset. It is absolute that the more the leads are interested in starting a deposit will have higher number of calls and the call duration will be higher than the average. We have also figured out that job and education also acts as a crucial deciding factor and influences the outcome alot.
+
+Here are the few recommendations for the bank than can help improve the deposit rate:
+
+- Classify job roles based on corporate tiers and approach all tier 1 employees within few days after the campaign commences.
+- Listen to the leads and extract more information to deliver the best deposit plan, which can increase the duration of calls and that can lead to a deposit.
+- Approaching the leads during the start of new bank period(May-July) will be a good choice as many have shown positive results from data history.
+- Tune the campaign according to the national econometrics, don't chanelize the expenses on campaign when the national economy is performing poor.
