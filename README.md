@@ -3,7 +3,7 @@
 In this third practical application assignment, your goal is to compare the performance of the classifiers (k-nearest neighbors, logistic regression, decision trees, and support vector machines) you encountered in this section of the program. You will use a dataset related to the marketing of bank products over the telephone.
 ## Data:
 The dataset you will use comes from the UCI Machine Learning repository (Links to an external site.). The data is from a Portuguese banking institution and is a collection of the results of multiple marketing campaigns. You can make use of the article (Links to an external site.) accompanying the dataset (in the .zip file) for more information on the data and features. The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
-## M0re detail on the dataset:
+## More detail on the dataset:
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
 There are four datasets:
