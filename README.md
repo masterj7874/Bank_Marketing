@@ -45,7 +45,7 @@ Input variables:
 Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
-#Conclusion:
+# Conclusion:
 From the EDA and model selection part we can clearly identify duration playing an important attribute in defining the outcome of our dataset. It is absolute that the more the leads are interested in starting a deposit will have higher number of calls and the call duration will be higher than the average. We have also figured out that job and education also acts as a crucial deciding factor and influences the outcome alot.
 
 Here are the few recommendations for the bank than can help improve the deposit rate:
